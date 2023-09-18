@@ -1,13 +1,8 @@
 <h1 align="center">Hey There, I'm Yash</h1>
 <h3 align="center">Result oriented and highly motivated Software Engineer aspirant with strong data structure and front- end/ Back-end development abilities, with keen interest in machine learning, object-oriented programming and database management systems.</h3>
-<img align="center" alt="coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashhhxzzz&label=Profile%20views&color=0e75b6&style=flat" alt="yashhhxzzz" /> </p>
-
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on [Increasing My Problem solving skiils](https://leetcode.com/syash7207/)
+- 🔭 I’m currently working on Increasing My Problem solving skiils at https://leetcode.com/syash7207
 
 - 🌱 I’m currently learning **how to become better with codes every secound**
 
